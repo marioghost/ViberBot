@@ -13,7 +13,6 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" exported="" name="org.nanohttpd:nanohttpd:2.3.0" level="project" />
     <orderEntry type="library" exported="" name="Maven: com.viber:viber-bot:1.0.10" level="project" />
-    <orderEntry type="library" exported="" name="Maven: org.slf4j:slf4j-api:1.7.22" level="project" />
     <orderEntry type="library" exported="" name="Maven: com.fasterxml.jackson.core:jackson-databind:2.8.6" level="project" />
     <orderEntry type="library" exported="" name="Maven: com.fasterxml.jackson.core:jackson-annotations:2.8.0" level="project" />
     <orderEntry type="library" exported="" name="Maven: com.fasterxml.jackson.core:jackson-core:2.8.6" level="project" />
@@ -22,5 +21,6 @@
     <orderEntry type="library" exported="" name="Maven: com.squareup.okhttp3:okhttp:3.5.0" level="project" />
     <orderEntry type="library" exported="" name="Maven: com.squareup.okio:okio:1.11.0" level="project" />
     <orderEntry type="library" exported="" name="org.slf4j:slf4j-simple:1.7.2" level="project" />
+    <orderEntry type="library" name="slf4j-api-1.7.2" level="project" />
   </component>
 </module>
